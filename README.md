@@ -1,8 +1,6 @@
-# Welcome to my git
+# whoami
 
-Thanks for stumbling across my page. If you landed here, that must mean I shared my profile with you or you found me on a project I've contributed to.
-
-## whoami
+If you landed here, that must mean I shared my profile with you or you found me on a project I've contributed to.
 
 I'm a web designer & engineer with around 10 years of experience designing and/or developing front-end projects.
 
