@@ -1,9 +1,9 @@
 # whoami
 
-If you landed here, that must mean I shared my profile with you or you found me on a project I've contributed to.
+Greetings friend. 👋
 
-I'm a web designer & engineer with around 10 years of experience designing and/or developing front-end projects.
+I'm George, a design engineer with a passion for design systems and front-end development.
 
-My recent work experiences include ServiceNow's [Horizon Design System](https://horizon.servicenow.com), Zendesk's [Garden Design System](https://garden.zendesk.com/), and [Scribd](https://www.scribd.com/).
+I run a boutique web design & development studio called [Right Warp](https://rightwarp.com). I've had the pleasure of working with the fine folks of Zendesk [Garden design system](https://garden.zendesk.com/), ServiceNow's [Horizon design system](https://horizon.servicenow.com), and [Scribd](https://www.scribd.com/).
 
-In general, I like playing the boundary of design and development when time allows, but I'm happy to focus on just one if needed.
+Feel free to [reach out](https://rightwarp.com/contact) if you want to chat!
